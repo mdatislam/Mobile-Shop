@@ -1,0 +1,33 @@
+
+body{
+    background-color: rgba(214, 212, 209, 0.274);
+}
+h4{ 
+    color: rgb(43, 226, 226);
+    text-align: center;
+    padding: 10px;
+    color: rgb(224, 44, 200);
+    background-color: bisque;
+}
+#phone-container{
+    background-color: #ebebeb;
+}
+.col{
+    color: rgb(18, 105, 235);
+}
+
+#error{
+    display:none;
+    background-color: rgba(238, 101, 59, 0.849);
+}
+
+#display-cont{
+    background-color: rgb(153, 211, 192);
+    color: pink
+}
+span{
+    color: rgba(241, 21, 21, 0.911);
+}
+#spin{
+    display:none;
+}
